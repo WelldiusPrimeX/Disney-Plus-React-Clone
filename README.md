@@ -12,7 +12,6 @@ I built a disney plus clone uisng React.js, Redux, Redux toolkit and styled it u
 
 * git.
 * node
-* vscode(or any code editor of your choice)
 
 ### Installing
 
@@ -20,7 +19,7 @@ I built a disney plus clone uisng React.js, Redux, Redux toolkit and styled it u
 
 ### Executing program
 
-*cd into the website's directory
+*cd into the project directory
 *npm start
 
 ## Help
